@@ -1,2 +1,2 @@
 NOWAC-survival
-Nå tester hva som skjer hvis jeg skriver noe her
+Nå tester hva som skjer hvis jeg skriver noe der
